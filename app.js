@@ -6,7 +6,7 @@ const {PORT} = require('./config/env')
 const authRoutes = require('./routes/authRoutes')
 
 let corsOptions = {
-    origin: 'https://densaulyq-backend.onrender.com',
+    origin: 'https://courageous-pithivier-ef9542.netlify.app',
     optionsSuccessStatus: 200
 }
 
