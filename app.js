@@ -6,7 +6,7 @@ const {PORT} = require('./config/env')
 const authRoutes = require('./routes/authRoutes')
 
 let corsOptions = {
-    origin: 'https://courageous-pithivier-ef9542.netlify.app',
+    origin: 'https://adorable-centaur-5f69c0.netlify.app',
     optionsSuccessStatus: 200
 }
 
