@@ -6,7 +6,7 @@ const {PORT} = require('./config/env')
 const authRoutes = require('./routes/authRoutes')
 
 let corsOptions = {
-    origin: 'http://localhost:5173',
+    origin: 'https://densaulyq-backend.onrender.com',
     optionsSuccessStatus: 200
 }
 
